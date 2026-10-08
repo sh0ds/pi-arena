@@ -1,0 +1,8 @@
+_build/
+dist-newstyle/
+.stack-work/
+*.o
+*.db
+*.db-wal
+*.db-shm
+compile_commands.json
